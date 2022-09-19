@@ -1,2 +1,13 @@
-export { default as Card } from './Card';
-export { default as Word } from './Word';
+export { default as TimelineElement } from './TimelineElement';
+export { default as ScrollCardComponent } from './ScrollCardComponent';
+export { default as SVGLine } from './SVGLine';
+export { default as ParticlesComponent } from './ParticlesComponent';
+export { default as SharedLayout } from './SharedLayout';
+export { default as TeamCard } from './TeamCard';
+export { default as DetailCard } from './DetailCard';
+export { default as Shape3D } from './Shape3D';
+export { default as Acordian } from './Acordian';
+export { default as Pillars } from './Pillars';
+export { default as Form } from './Form';
+export { default as EmailInput } from './EmailInput';
+export { default as Popover } from './Popover';

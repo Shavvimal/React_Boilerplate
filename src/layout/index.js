@@ -1,2 +1,10 @@
 export { default as Header } from './Header';
-export { default as Modal } from './Modal';
+export { default as Title } from './Title';
+export { default as Timeline } from './Timeline';
+export { default as FeaturesBlocks } from './FeaturesBlocks';
+export { default as FeaturesBlocksShort } from './FeaturesBlocksShort';
+export { default as Testimonials } from './Testimonials';
+export { default as ContactHome } from './ContactHome';
+export { default as Footer } from './Footer';
+export { default as Description } from './Description';
+export { default as PrivacyLayout } from './PrivacyLayout';

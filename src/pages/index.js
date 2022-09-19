@@ -1,1 +1,9 @@
-export { default as Home } from './Home';
+export { default as Landing } from './Landing';
+export { default as SignIn } from './SignIn';
+export { default as SignUp } from './SignUp';
+export { default as Team } from './Team';
+export { default as Contact } from './Contact';
+export { default as About } from './About';
+export { default as Services } from './Services';
+export { default as Lost } from './Lost';
+export { default as PrivacyPolicy } from './PrivacyPolicy';
