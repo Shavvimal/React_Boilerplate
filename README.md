@@ -32,3 +32,10 @@ This is a React Boilerplate with the packages i like to work with. Deployed [her
 +   https://lottiefiles.com/97474-data-center
 +   https://lottiefiles.com/94411-gsa-masternode-host
 
+# Version Errors
+Update the offending package. e.g. 
+``` 
+npm i tslib@latest --save
+npm i framesync@latest --save
+npm i style-value-types@latest --save
+``` 
